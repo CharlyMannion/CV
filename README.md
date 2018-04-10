@@ -1,50 +1,74 @@
-## Your Name
+## Charlotte Mannion
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a full stack Ruby developer and graduate of Makers Academy.
+
+After a (relatively) brief foray in to the world of Finance after graduating from the University of Edinburgh with a First Class History degree, I recognised that my personal need for constant learning and intellectual challenge was being stifled. But coding has proved to be a bountiful buffet for my voracious appetite for new information.
+
+I'm looking for a Junior developer role in with plenty of learning opportunities and fast progression, and to work alongside others who share my enthusiasm.
 
 ## Skills
 
-#### This Skill
+#### Motivation
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In my previous roles and at University, I had a reputation for being highly focused, motivated and self-disciplined. This skill was first honed whilst studying for my degree, where organisation and the ability to complete work independently was essential, given that I had only 4 hours of contact time with professors each week. In the workplace, this independence in thought combines with my natural inclination towards methodical processes. In my role at RBS, I recognised the need to establish a formalised process for the removal of data from our databases, which I designed and proposed to my Workstream lead. This process was subsequently implemented across the Bank Project.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### People
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+At RBS I was often required to explain, or 'demistify' the technology and software we were using  to those in decision making positions that were less technically minded. This was essential to ensure these stakeholders recognised the value in the work my team was doing.  This experience showed me the importance of open and patient communication with others, and of breaking down the barriers to understanding created by technical language.  
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2018 to July 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code
+- Fast, independent learner
+- Great collaborator
+
+- A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp
+- Beyond learning to code, Makers focuses on developing a mindset & attitude within junior developers to always aim to 'build things right'
+- Focused on core coding techniques such as agile, Test Driven Development, SOLID, Object Oriented Design, Scrum & pair programming
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Edinburgh (September 2011 to July 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- (MA) Master of Arts, with Honours History
+- First Class Honours
+- I was awarded the Anne Lewis Award for Academic Achievement in my final year
+- Conducted independent research for my Final Dissertation
 
-#### Any other qualifications
+#### Chartered Institute of Management Accounting (CIMA) Certificate (September 2016 to June 2017)
+- Completed modules in the Fundamentals of Management Accounting, Financial Accounting,
+and Ethics, Corporate Governance and Business Law
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**RBS** (June 2017 to March 2018)    
+*Business Analyst and Ringtail SME*  
+• Part of the team administering Ringtail E-Discovery software to a Bank Project
+• Acted as the liaison between the Bank and the Software Vendor
+• Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
+• Ran weekly Stakehodler meetings with Workstream Leads to approve software changes
+• Responsible for smaller software builds, required to tailor the software to the Project's unique needs
+
+**EY** (September 2016 to June 2017)   
+*Technology Consultant, Finanical Services*  
+• Part of the Advisory Consultant Programme 2016 Intake
+• Aligned to the Technology stream
+• Worked on a Project to deliver the Strategy for the future of the UK Payments Industry
+• Invited to attend the EY EACN Training event in Rome in 2017, which focused on Client Presentations and Project Management
+• Received Technology stream specific training, including basic SQL and Blue Prism
+• Helped develop unconscious bias training for the Technology stream Intake
+
+## Interests
+
+• Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. A Butchery course is currently on my hit list. I also love bringing friends and family together and making people happy through food
+• Fitness: Staying active - whether I'm hiking, kayaking, gymming - keeps my mind clear and positive. There's nothing like overcoming a physical challenge to remind you that life's daily challenges can be overcome
+• Photography: I own more analogue cameras than I'd care to admit, but I enjoy figuring out how to old cameras work and creating unusual effects like double exposures. I also helped out in a photography gallery in Tokyo one summer when I was a student
