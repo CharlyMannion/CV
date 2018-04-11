@@ -2,23 +2,19 @@
 
 I am a full stack Ruby developer and graduate of Makers Academy.
 
-After a (relatively) brief foray in to the world of Finance after graduating from the University of Edinburgh with a First Class History degree, I recognised that my personal need for constant learning and intellectual challenge was being stifled. But coding has proved to be a bountiful buffet for my voracious appetite for new information.
+After graduating from the University of Edinburgh with a First Class History degree, I made a (relatively) brief foray in to the world of Finance before. But it soon dawned on me that I needed to pursue a career that I was genuinely interested in and that would bring new intellectual challenges. Coding has certainly proved challenging (and fascinating) so far!
 
 I'm looking for a Junior developer role in with plenty of learning opportunities and fast progression, and to work alongside others who share my enthusiasm.
 
 ## Skills
 
-#### Motivation
+#### Initiative
 
-In my previous roles and at University, I had a reputation for being highly focused, motivated and self-disciplined. This skill was first honed whilst studying for my degree, where organisation and the ability to complete work independently was essential, given that I had only 4 hours of contact time with professors each week. In the workplace, this independence in thought combines with my natural inclination towards methodical processes. In my role at RBS, I recognised the need to establish a formalised process for the removal of data from our databases, which I designed and proposed to my Workstream lead. This process was subsequently implemented across the Bank Project.
-
-- Experience
-- Achievements
-- Evidence
+In my previous roles and at University, I had a reputation for being motivated and self-disciplined. This skill was first honed whilst studying for my degree, where organisation and the ability to complete work independently was essential, given that I had only 4 hours of contact time with professors each week. This has helped me to take the initiative in the workplace. In my role at RBS, I recognised the need to establish a formalised process for the removal of data from our databases, which I designed and proposed to my Workstream lead. This process was subsequently implemented across the Bank Project.
 
 #### People
 
-At RBS I was often required to explain, or 'demistify' the technology and software we were using  to those in decision making positions that were less technically minded. This was essential to ensure these stakeholders recognised the value in the work my team was doing.  This experience showed me the importance of open and patient communication with others, and of breaking down the barriers to understanding created by technical language.  
+At RBS I was often required to explain, or 'demistify' the technology we were using  to those in decision making positions that were less technically minded. This was essential to ensure these stakeholders recognised the value in the work my team was doing.  This experience showed me the importance of open and patient communication with others, and of breaking down the barriers to understanding created by technical language.  
 
 ## Education
 
@@ -27,6 +23,7 @@ At RBS I was often required to explain, or 'demistify' the technology and softwa
 - Curious and passionate about code
 - Fast, independent learner
 - Great collaborator
+- Good at planning/organising (people and tasks). Taking the initiative in group situations
 
 - A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp
 - Beyond learning to code, Makers focuses on developing a mindset & attitude within junior developers to always aim to 'build things right'
@@ -71,4 +68,4 @@ and Ethics, Corporate Governance and Business Law
 
 • Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. A Butchery course is currently on my hit list. I also love bringing friends and family together and making people happy through food
 • Fitness: Staying active - whether I'm hiking, kayaking, gymming - keeps my mind clear and positive. There's nothing like overcoming a physical challenge to remind you that life's daily challenges can be overcome
-• Photography: I own more analogue cameras than I'd care to admit, but I enjoy figuring out how to old cameras work and creating unusual effects like double exposures. I also helped out in a photography gallery in Tokyo one summer when I was a student
+• Photography: I own more analogue cameras than I'd care to count, but I enjoy figuring out how to old cameras work and creating unusual effects, like double exposures. I also helped out in a photography gallery in Tokyo one summer when I was a student
