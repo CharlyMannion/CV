@@ -8,6 +8,11 @@ I'm looking for a Junior developer role in with plenty of learning opportunities
 
 ## Skills
 
+#### Fast Learner
+
+AT RBS, I joined a team initially consisting of only two people on a Project, and where I was considered a Project SME for Ringtail E-Discovery software. Yet I had never used this software before and did not having a technical background. However, my diligence and ability to adapt quickly allowed me to make a steep learning curve.
+
+
 #### Initiative
 
 In my previous roles and at University, I had a reputation for being motivated and self-disciplined. This skill was first honed whilst studying for my degree, where organisation and the ability to complete work independently was essential, given that I had only 4 hours of contact time with professors each week. This has helped me to take the initiative in the workplace. In my role at RBS, I recognised the need to establish a formalised process for the removal of data from our databases, which I designed and proposed to my workstream lead. This process was subsequently implemented across the Bank Project.
