@@ -10,8 +10,7 @@ I'm looking for a Junior developer role in with plenty of learning opportunities
 
 #### Fast Learner
 
-AT RBS, I joined a team initially consisting of only two people on a Project, and where I was considered a Project SME for Ringtail E-Discovery software. Yet I had never used this software before and did not having a technical background. However, my diligence and ability to adapt quickly allowed me to make a steep learning curve.
-
+AT RBS, I joined a team initially consisting of only two people on a Project, and where I was considered a Project SME for Ringtail E-Discovery software. Yet I had never used this software before and did not having a technical background. My diligence and ability to adapt quickly allowed me to make a steep learning curve, and I was soon training others.
 
 #### Initiative
 
