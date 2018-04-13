@@ -42,12 +42,17 @@ In my previous role I was required to explain, or 'demistify' the technology we 
 
 - (MA) Master of Arts, with Honours History
 - First Class Honours
-- I was awarded the Anne Lewis Award for Academic Achievement in my final year
+- Received the Anne Lewis Award for Academic Achievement in my final year
 - Conducted independent research for my final dsissertation
 
 #### Chartered Institute of Management Accounting (CIMA) Certificate (September 2016 to June 2017)
 - Completed modules in the Fundamentals of Management Accounting, Financial Accounting,
 and Ethics, Corporate Governance and Business Law
+
+#### St Peter's School, York (September 2006 to July 2011)
+- A Levels: 3 As in Maths, Politics and History
+- British Maths Olympiad Gold 2011
+- GCSE: 9A* (including Maths, Science and English), 1A
 
 ## Experience
 
