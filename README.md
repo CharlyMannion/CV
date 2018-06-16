@@ -1,10 +1,6 @@
 ## Charlotte Mannion
 
-I am a full stack Ruby developer and student at Makers Academy.
-
-After graduating from the University of Edinburgh with a First Class History degree, I made a (relatively) brief foray in to the world of Finance. But it soon dawned on me that I needed to pursue a career that I was genuinely interested in and that would bring new intellectual challenges. Coding has certainly proved challenging (and fascinating) so far!
-
-I'm looking for a Junior developer role in with plenty of learning opportunities and fast progression, and to work alongside others who share my enthusiasm.
+I am a full stack developer and graduate of Makers Academy looking for a Junior developer role. I'm excited for the opportunity to continue the steep learning curve that I experience at Makers in a supportive environment with people who share my enthusiasm for code and teamwork.
 
 ## Skills
 
@@ -28,13 +24,13 @@ In my previous role I was required to explain, or 'demistify' the technology we 
 - Fast, independent learner
 - Great collaborator
 
-A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp. Beyond learning to code, Makers focuses on developing a mindset & attitude within junior developers to always aim to 'build things right'.
+A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp. Beyond learning to code, Makers focuses on developing a mindset and attitude within junior developers to always aim to 'build things right'.
 Focused on core coding techniques such as agile, Test Driven Development, SOLID, Object Oriented Design, Scrum & pair programming
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript, Java, Spring
+- RSpec, Jasmine, Nightwatch, Jest, Junit
 
 #### The University of Edinburgh (September 2011 to July 2015)
 
@@ -74,5 +70,5 @@ and Ethics, Corporate Governance and Business Law
 ## Interests
 
 - Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. A Butchery course is currently on my hit list. I also love bringing friends and family together and making people happy through food
-- Fitness: Staying active - whether I'm hiking, kayaking, gymming - keeps my mind clear and positive
-- Photography: I enjoy figuring out how to old analogue cameras work and creating unusual effects, like double exposures. I once helped out in a photography gallery in Tokyo during the summer when I was a student
+- Fitness: Staying active - I love to go hiking, practice Yoga and generally stay active - it keeps my mind clear and positive
+- Photography: I enjoy figuring out how to use old analogue cameras and creating unusual effects
