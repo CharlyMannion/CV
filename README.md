@@ -2,6 +2,13 @@
 
 I am a full stack developer and graduate of Makers Academy looking for a Junior developer role. I'm excited for the opportunity to continue the steep learning curve that I experience at Makers in a supportive environment with people who share my enthusiasm for code and teamwork.
 
+## Projects
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [MakersBnB](github link) | Placeholder | 1 week | JavaScript, HTML/CSS | Nightwatch, Selenium-Webdriver |
+| [Acebook (Facebook)](github link) | Description | 2 weeks | HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL, Heroku, Java, Spring | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
+| [PLaceholder](Github link) | Description.  | 2 weeks | Tech | Test suit |
+
 ## Skills
 
 #### Fast Learner
