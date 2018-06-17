@@ -27,11 +27,13 @@ In my previous role I was required to explain, or 'demistify' the technology we 
 
 #### Makers Academy (March 2018 to July 2018)
 
-A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp. Beyond learning to code, Makers focuses on developing a mindset and attitude within junior developers to always aim to 'build things right'.
+A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp. Beyond learning to code, Makers focuses on developing a mindset and attitude within junior developers to always aim to 'build things right', by reinforcing behaviours such as OOP, TDD, Pair programming, XP Values.
 
-- OOP, TDD, Pair programming, XP Values
-- Ruby, JavaScript, Java, Spring
-- RSpec, Jasmine, Nightwatch, Jest, Junit
+Languages: Ruby, JavaScript (and jQuery), Java, HTML/CSS
+Web Frameworks: Sinatra, Spring, node.js/Express
+Databases: PostgreSQL
+Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
+CI/CD: Travis CI, Heroku
 
 #### RBS (June 2017 to March 2018)    
 *Business Analyst and Ringtail SME*  
