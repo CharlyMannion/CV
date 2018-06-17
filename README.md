@@ -23,7 +23,7 @@ After joining RBS, I recognised the need to establish a formalised process for t
 
 In my previous role I was required to explain, or 'demistify' the technology we were using  to those in decision making positions that were less technically minded. This was essential to ensure these stakeholders recognised the value in the work my team was doing.  This experience showed me the importance of open and patient communication with others, and of breaking down the barriers to understanding created by technical language.  
 
-## Education
+## Previous Experience
 
 #### Makers Academy (March 2018 to July 2018)
 
@@ -38,6 +38,25 @@ Focused on core coding techniques such as agile, Test Driven Development, SOLID,
 - Agile/XP
 - Ruby, JavaScript, Java, Spring
 - RSpec, Jasmine, Nightwatch, Jest, Junit
+
+#### RBS (June 2017 to March 2018)    
+*Business Analyst and Ringtail SME*  
+- Part of the team administering Ringtail E-Discovery software to a Bank Project
+- Acted as the liaison between the Bank and the Software Vendor
+- Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
+- Ran weekly stakehodler meetings with workstream leads to approve software changes
+- Responsible for smaller software builds, required to tailor the software to the Project's unique needs
+
+#### EY (September 2016 to June 2017)   
+*Technology Consultant, Finanical Services*  
+- Part of the Advisory Consultant Programme 2016 Intake
+- Aligned to the technology stream
+- Worked on a Project to deliver the strategy for the future of the UK Payments Industry
+- Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
+- Received technology stream specific training, including basic SQL and Blue Prism
+- Helped develop unconscious bias training for the technology stream Intake
+
+## Education
 
 #### The University of Edinburgh (September 2011 to July 2015)
 
@@ -54,25 +73,6 @@ and Ethics, Corporate Governance and Business Law
 - A Levels: 3 As in Maths, Politics and History
 - British Maths Olympiad Gold 2011
 - GCSE: 9A* (including Maths, Science and English), 1A
-
-## Experience
-
-**RBS** (June 2017 to March 2018)    
-*Business Analyst and Ringtail SME*  
-- Part of the team administering Ringtail E-Discovery software to a Bank Project
-- Acted as the liaison between the Bank and the Software Vendor
-- Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
-- Ran weekly stakehodler meetings with workstream leads to approve software changes
-- Responsible for smaller software builds, required to tailor the software to the Project's unique needs
-
-**EY** (September 2016 to June 2017)   
-*Technology Consultant, Finanical Services*  
-- Part of the Advisory Consultant Programme 2016 Intake
-- Aligned to the technology stream
-- Worked on a Project to deliver the strategy for the future of the UK Payments Industry
-- Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
-- Received technology stream specific training, including basic SQL and Blue Prism
-- Helped develop unconscious bias training for the technology stream Intake
 
 ## Interests
 
