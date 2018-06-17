@@ -1,23 +1,23 @@
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy looking for a Junior developer role. I'm excited for the opportunity to continue the steep learning curve that I experience at Makers in a supportive environment with people who share my enthusiasm for code and teamwork.
+I am a full stack developer and graduate of Makers Academy looking for a Junior developer role. I'm excited for the opportunity to continue the steep learning curve that I started at Makers. I'm looking for a position in a supportive team environment with people who share my enthusiasm for clean, clear code.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Acebook (Facebook)](github link) | Description | 2 weeks | HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL, Heroku, Java, Spring | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
-| [MakersBnB](github link) | Placeholder | 1 week | JavaScript, HTML/CSS | Nightwatch, Selenium-Webdriver |
-| [PLaceholder](Github link) | Description | 2 weeks | Tech | Test suit |
+| [Placeholder](Github link) | Description | 2 weeks | Tech | Test suit |
+| [Acebook](https://github.com/anderscodes/mother_acebook) | An engineering project to build a clone of Facebook using java/spring | 2 weeks | HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL, Heroku, Java, Spring | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
+| [MakersBnB](https://github.com/ellie-keen/makersBnb) | A full stack Javascript application and clone of Airbnb | 1 week | JavaScript, HTML/CSS | Nightwatch, Selenium-Webdriver |
 
 ## Skills
 
 #### Fast Learner
 
-AT RBS, I joined a team initially consisting of only two people on a Project, and where I was considered a Project SME for Ringtail E-Discovery software. Yet I had never used this software before and did not having a technical background. My diligence and ability to adapt quickly allowed me to make a steep learning curve, and I was soon training others.
+AT RBS, I joined a team initially consisting of only two people on a Project where I was considered a Project SME for Ringtail E-Discovery software.  I had never used this software before and did not have a technical background. My diligence and ability to adapt quickly allowed me to make a steep learning curve, and I was soon teaching other people on the project and new team members to use the software.
 
 #### Initiative
 
-In my previous roles and at University, I had a reputation for being motivated and self-disciplined. This skill was first honed whilst studying for my degree, where organisation and the ability to complete work independently was essential, given that I had only 4 hours of contact time with professors each week. This has helped me to take the initiative in the workplace. In my role at RBS, I recognised the need to establish a formalised process for the removal of data from our databases, which I designed and proposed to my workstream lead. This process was subsequently implemented across the Bank Project.
+After joining RBS, I recognised the need to establish a formalised process for the removal of data from the live environment of the project's Casebook, which I designed and proposed to my workstream lead. This process was subsequently implemented across the Bank Project.
 
 #### People
 
