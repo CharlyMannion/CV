@@ -6,8 +6,8 @@ I am a full stack developer and graduate of Makers Academy looking for a Junior 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Placeholder](Github link) | Description | 2 weeks | Tech | Test suit |
-| [Acebook](https://github.com/anderscodes/mother_acebook) | An engineering project to build a clone of Facebook using java/spring | 2 weeks | HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL, Heroku, Java, Spring | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
-| [MakersBnB](https://github.com/ellie-keen/makersBnb) | A full stack Javascript application and clone of Airbnb | 1 week | JavaScript, HTML/CSS | Nightwatch, Selenium-Webdriver |
+| [Acebook](https://github.com/anderscodes/mother_acebook) | An engineering project to build a clone of Facebook using java/spring | 2 weeks | Java, Spring, Javascrit, HTML/CSS (Bootstrap), PostgreSQL, Heroku | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
+| [MakersBnB](https://github.com/ellie-keen/makersBnb) | A full stack Javascript application and clone of Airbnb | 1 week | JavaScript, PostgreSQL, HTML/CSS | Nightwatch, Selenium-Webdriver |
 
 ## Skills
 
