@@ -27,15 +27,9 @@ In my previous role I was required to explain, or 'demistify' the technology we 
 
 #### Makers Academy (March 2018 to July 2018)
 
-- Curious and passionate about code
-- Fast, independent learner
-- Great collaborator
-
 A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp. Beyond learning to code, Makers focuses on developing a mindset and attitude within junior developers to always aim to 'build things right'.
-Focused on core coding techniques such as agile, Test Driven Development, SOLID, Object Oriented Design, Scrum & pair programming
 
-- OOP, TDD
-- Agile/XP
+- OOP, TDD, Pair programming, XP Values
 - Ruby, JavaScript, Java, Spring
 - RSpec, Jasmine, Nightwatch, Jest, Junit
 
