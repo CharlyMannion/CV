@@ -13,11 +13,11 @@ I am a full stack developer and graduate of Makers Academy looking for a Junior 
 
 #### Fast Learner
 
-Makers Academy has accelerated my coding skills exponentially, but made me actutely aware of how much I still want and need to learn. I started Makers with next to no knowledge of coding, but have surpised myself with how far I have come in such a short space of time. A great example of this was the two week engineering project, where we built a Java/Spring clone of Facebook without ever having used Java, Spring or React before. These two weeks were pretty tough, but my team definitely ended on high and a sense of achievement. Starting from the bottom has also meant I have absorbed and become an advocate for best practices such as TDD, DRY and SOLID. 
+Makers Academy has accelerated my coding skills exponentially, but also made me actutely aware of how much I still want and need to learn. I started Makers with next to no knowledge of coding, but have surpised myself with how far I have come in such a short space of time. A great example of this was the two week engineering project, where my team built a Java/Spring clone of Facebook without ever having used Java, Spring or React before. These two weeks were pretty tough, but we ended on a high and with a huge sense of pride in how much we had learned, even if our final product wasn't quite as good as Zuckerbergs. Starting from the bottom has meant I have absorbed and become an advocate for best practices such as TDD, DRY and SOLID. 
 
 #### Teamwork
 
-In our first team challenge, my team had daily stand ups, check-ins and retros. These sessions ensured team cohesion, kept us focused on our objectives, and also made the week really fun. I also believe that pairing and our knowledge sharing sessions allowed us to overcome blockers with setting up the project more quickly than we would have done working separately. On reflection, I felt that the most important skill I had learned from this project was how to work well in a dev team, and I took this learning with me in to the rest of team projects.
+In our first team challenge, my team had daily stand ups, check-ins and retros. These sessions ensured team cohesion, kept us focused on our objectives, and also made the week really fun. I believe that pairing and knowledge sharing sessions allowed us to overcome blockers with setting up the project more quickly than we would have done working separately. On reflection, I felt that the most important skill I had learned from this project was how to work well in a dev team, and I took this learning with me in to the rest of my time at Makers.
  
 #### Adaptability
 
