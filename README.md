@@ -1,3 +1,5 @@
+charlottemannion100@gmail.com
+
 ## Charlotte Mannion
 
 I am a full stack developer and graduate of Makers Academy looking for a Junior developer role. I'm excited for the opportunity to continue the steep learning curve that I started at Makers. I'm looking for a position in a supportive team environment with people who share my enthusiasm for clean, clear code.
