@@ -73,3 +73,6 @@ and Ethics, Corporate Governance and Business Law
 - Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. A Butchery course is currently on my hit list. I also love bringing friends and family together and making people happy through food
 - Staying active: I love to go hiking, practice yoga and generally keep active - it keeps my mind clear and positive
 - Photography: I enjoy figuring out how to use old analogue cameras and creating unusual effects
+
+## Linkedin 
+https://www.linkedin.com/in/charlotte-mannion-75483523/
