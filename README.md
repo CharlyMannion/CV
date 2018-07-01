@@ -5,36 +5,31 @@ I am a full stack developer and graduate of Makers Academy looking for a Junior 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Placeholder](Github link) | Description | 2 weeks | Tech | Test suit |
-| [Bank](https://github.com/CharlyMannion/bank-tech-test) | My solution to the Bank Tech test | 3 days | Ruby | Rspec |
+| [Placeholder](Github link) | Our final Project at Makers - an mboile app that allows a user to discretely raise an alert | 2 weeks | Swift, Xcode, Cocoapods, Twilio | Xcode |
+| [Bank](https://github.com/CharlyMannion/bank-tech-test) | My solution to the Bank Tech test | 3 days | Ruby | Rspec, Rubocop |
 | [Acebook](https://github.com/CharlyMannion/mother_acebook) | An engineering project to build a clone of Facebook using java/spring | 2 weeks | Java, Spring, Javascript, HTML/CSS (Bootstrap), PostgreSQL, Heroku | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
-| [MakersBnB](https://github.com/CharlyMannion/makersBnb) | A full stack Javascript application and clone of Airbnb | 1 week | JavaScript, PostgreSQL, HTML/CSS | Nightwatch, Selenium-Webdriver |
 
 ## Skills
 
-#### Fast Learner
-
-Makers Academy has accelerated my coding skills exponentially, but also made me acutely aware of how much I still want and need to learn. I started Makers with next to no knowledge of coding, but have surpised myself with how much I've grown. A great example of this was the two week engineering project, where my team built a Java/Spring clone of Facebook without ever having used Java, Spring or React before. These two weeks were pretty tough, but we ended on a high and with a huge sense of pride in how much we had learned, even if our final product wasn't quite as good as Zuckerbergs. Starting from the bottom has meant I have absorbed and become an advocate for best practices such as TDD, DRY and SOLID. 
-
 #### Teamwork
 
-In our first team challenge, my team had daily stand ups, check-ins and retros. These sessions ensured team cohesion, kept us focused on our objectives, and also made the week really fun. I believe that pairing and knowledge sharing sessions allowed us to overcome blockers with setting up the project more quickly than we would have done working separately. When reflecting on this week in our final retro, I felt that the most important skill I had learned was how to work well in a dev team, and I took this learning with me in to the rest of my time at Makers.
+Our first team challenge at Makers was to build an Airbnb clone in vanilla javascript. The set up of the project proved to be quite challenging. However, by ensuring my team stuck to daily stand ups, check-ins and retros, I ensured the team remained cohesive, focused on our objectives, and also made the week really fun. When reflecting on this week, I felt that the most important skill I had learned was how to work well in a dev team, and I took this learning with me in to the rest of my time at Makers.
  
-#### Adaptability
+#### Fast Learner
 
-This skill was essential in my previous job, when I joined a team initially consisting of only two people, on a Project where I was considered an SME for Ringtail E-Discovery software.  I had never used this software before and did not have a technical background. This experience required me to make a steep learning curve, but I was soon teaching other people on the project and new team members to use the software. 
+In my previous job, I joined a team initially consisting of only two people, on a Project where I was considered an SME for Ringtail E-Discovery software. I had never used this software before and did not have a technical background. But through research and writing how-to guides as I went, I was able to quickly solidify my understanding. This also meant I was soon able to teach other people on the project how to use the software. 
 
 #### Excellent Communicator
 
-In my previous job I was required to explain, or 'demistify' the technology we were using  to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value he work my team was doing.  This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.  
+In my previous job I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value he work my team was doing.  This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.  
 
 ## Previous Experience
 
 #### Makers Academy (March 2018 to July 2018)
 
-Beyond learning to code, Makers focused on developing a good mindset and attitude to coding, by reinforcing behaviours such as OOP, TDD, Pair programming, XP Values.
+Makers Academy has accelerated my coding skills exponentially, given that I started with next to no experience. But beyond code, I developed a good mindset and attitude through behaviours such as OOP, TDD, Pair programming, XP Values.
 
-Languages: Ruby, JavaScript (and jQuery), Java, HTML/CSS
+Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
 Web Frameworks: Sinatra, Spring, node.js/Express
 Databases: PostgreSQL
 Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
