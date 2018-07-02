@@ -9,7 +9,7 @@ I am a full stack developer and graduate of Makers Academy looking for a Junior 
 |--|--|--|--|--|
 | [Placeholder](Github link) | Our final Project at Makers - an mboile app that allows a user to discretely raise an alert | 2 weeks | Swift, Xcode, Cocoapods, Twilio | Xcode |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | My solution to the Bank Tech test | 3 days | Ruby | Rspec, Rubocop |
-| [Acebook](https://github.com/CharlyMannion/mother_acebook) | An engineering project to build a clone of Facebook using java/spring | 2 weeks | Java, Spring, Javascript, HTML/CSS (Bootstrap), PostgreSQL, Heroku | Jest, Junit, Travis, Nightwatch, Selenium-Webdriver |
+| []() |  |  |  |  |
 
 ## Skills
 
