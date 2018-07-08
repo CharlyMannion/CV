@@ -29,13 +29,13 @@ In my previous job I was required to explain, or 'demistify' the technology we w
 
 #### Makers Academy (March 2018 to July 2018)
 
-Makers Academy has accelerated my coding skills exponentially, given that I started with next to no experience. But beyond code, I developed a good mindset and attitude through behaviours such as OOP, TDD, Pair programming, XP Values.
+Makers Academy has accelerated my coding skills exponentially, given that I started with next to no experience. But as well as learning to code, I developed a good mindset and attitude through behaviours such as OOP, TDD, Pair programming, XP Values.
 
-Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
-Web Frameworks: Sinatra, Spring, node.js/Express
-Databases: PostgreSQL
-Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
-CI/CD: Travis CI, Heroku
+• Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
+• Web Frameworks: Sinatra, Spring, node.js/Express
+• Databases: PostgreSQL
+• Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
+• CI/CD: Travis CI, Heroku
 
 #### RBS (June 2017 to March 2018)    
 *Business Analyst and Ringtail SME*  
