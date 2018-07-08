@@ -7,7 +7,7 @@ I am a full stack developer and graduate of Makers Academy looking for a Junior 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Placeholder](https://github.com/habin-isa/Angelos) | Our final Project at Makers - a mobile app that allows a user to discretely raise an alert | 2 weeks | Swift, Xcode, Cocoapods, Twilio | Xcode |
+| [Placeholder](https://github.com/habin-isa/Angelos) | Our final Project at Makers - a mobile app that allows a user to discretely raise an alert | 8 days | Swift, Xcode, Cocoapods, Twilio | Xcode |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | My solution to the Bank Tech test | 3 days | Ruby | Rspec, Rubocop |
 | []() |  |  |  |  |
 
