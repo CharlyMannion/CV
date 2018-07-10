@@ -23,13 +23,14 @@ In my previous job, I joined a team initially consisting of only two people, on 
 
 #### Excellent Communicator
 
-In my previous job I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value he work my team was doing.  This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.  
+When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value he work my team was doing.  This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.  
 
 ## Previous Experience
 
 #### Makers Academy (March 2018 to July 2018)
 
-Makers Academy has accelerated my coding skills exponentially, given that I started with next to no experience. But as well as learning to code, I developed a good mindset and attitude through behaviours such as OOP, TDD, Pair programming, XP Values.
+I had no prior coding experience when I started Makers Academy. But I embraced this opportunity to work hard and learn something new every day, and I’ve now built apps in 4 different languages.
+As well as learning to code, Makers equipped me with a good mindset and attitude to code through behaviours such as OOP, TDD, Pair programming, XP Values.
 
 * Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
 * Web Frameworks: Sinatra, Spring, node.js/Express
