@@ -9,7 +9,7 @@ I am a full stack developer and graduate of Makers Academy looking for a Junior 
 |--|--|--|--|--|
 | [Swift Exit](https://github.com/habin-isa/Angelos) | Our final Project at Makers - a mobile app that allows a user to discretely raise an alert | 8 days | Swift, Xcode, Cocoapods, Twilio | Xcode |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | My solution to the Bank Tech test | 3 days | Ruby | Rspec, Rubocop |
-| []() |  |  |  |  |
+| [Acebook](https://github.com/anderscodes/mother_acebook) | A clone of Facebook written in Java, Spring and React | 8 days |  | Java, Spring, React, Heroku | Nightwatch, Junit, Jest | 
 
 ## Skills
 
@@ -31,11 +31,11 @@ In my previous job I was required to explain, or 'demistify' the technology we w
 
 Makers Academy has accelerated my coding skills exponentially, given that I started with next to no experience. But as well as learning to code, I developed a good mindset and attitude through behaviours such as OOP, TDD, Pair programming, XP Values.
 
-• Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
-• Web Frameworks: Sinatra, Spring, node.js/Express
-• Databases: PostgreSQL
-• Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
-• CI/CD: Travis CI, Heroku
+* Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
+* Web Frameworks: Sinatra, Spring, node.js/Express
+* Databases: PostgreSQL
+* Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
+* CI/CD: Travis CI, Heroku
 
 #### RBS (June 2017 to March 2018)    
 *Business Analyst and Ringtail SME*  
