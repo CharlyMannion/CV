@@ -2,7 +2,7 @@ charlottemannion100@gmail.com
 
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy. I'm excited for the opportunity to continue the steep learning curve that I started at Makers. I'm looking for a position in a supportive team environment with people who share my enthusiasm for clean, clear code.
+I am a full stack developer and graduate of Makers Academy. I'm excited for the opportunity to continue the steep learning curve that I started at Makers. I'm looking forward to starting my first position in a supportive team environment with people who share my enthusiasm for clean, clear code.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -75,7 +75,7 @@ and Ethics, Corporate Governance and Business Law
 ## Interests
 - Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. A Butchery course is currently on my hit list. I also love bringing friends and family together and making people happy through food
 - Staying active: I love to go hiking, practice yoga and generally keep active - it keeps my mind clear and positive
-- Photography: I enjoy figuring out how to use old analogue cameras and creating unusual effects
+- Furniture Painting: I like to give old bits of furniture a new lease of life. I also find it therapeutic 
 
 ## Linkedin 
 https://www.linkedin.com/in/charlotte-mannion-75483523/
