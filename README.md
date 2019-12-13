@@ -2,7 +2,7 @@ charlottemannion100@gmail.com
 
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy. I'm excited for the opportunity to continue the steep learning curve that I started at Makers. I'm looking forward to starting my first position in a supportive team environment with people who share my enthusiasm for clean, clear code.
+I am a full stack developer and graduate of Makers Academy. I'm excited for the opportunity to continue the learning that I started at Makers. I'm looking forward to starting my first position in a supportive team environment, following a period of absence from work due to ill health.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -73,9 +73,11 @@ and Ethics, Corporate Governance and Business Law
 - GCSE: 9A* (including Maths, Science and English), 1A
 
 ## Interests
-- Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. A Butchery course is currently on my hit list. I also love bringing friends and family together and making people happy through food
-- Staying active: I love to go hiking, practice yoga and generally keep active - it keeps my mind clear and positive
-- Furniture Painting: I like to give old bits of furniture a new lease of life. I also find it therapeutic 
+- Photography: I like figuring out how old analogue cameras work, and experimenting with film and exposures to create interesting images
+- Film: I enjoy getting immersed in a story, particularly in a Cinema. The Aesthetica Short Film Festival was one of my highlights of 2019
+- Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. I also love bringing friends and family together and making people happy through food
+- Staying active: I like to go boulering, practice yoga and generally keep active - it keeps my mind clear and positive
+
 
 ## Linkedin 
 https://www.linkedin.com/in/charlotte-mannion-75483523/
