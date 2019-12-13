@@ -10,6 +10,7 @@ I am a full stack developer and graduate of Makers Academy. I'm excited for the 
 | [Swift Exit](https://github.com/habin-isa/Angelos) | Our final Project at Makers - a mobile app that allows a user to discretely raise an alert | 8 days | Swift, Xcode, Cocoapods, Twilio | Xcode |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | My solution to the Bank Tech test | 3 days | Ruby | Rspec, Rubocop |
 | [Acebook](https://github.com/anderscodes/mother_acebook) | A clone of Facebook written in Java, Spring and React | 8 days | Java, Spring, React, Heroku | Nightwatch, Junit, Jest | 
+| [Boris Bikes](https://github.com/CharlyMannion/bb_solo) | A programme that emulates the Santander Cycles system written, in Ruby. This is a recent project, completed in my journey to get back in to coding | 2 days | Ruby | Rspec, Rubocop | 
 
 ## Skills
 
