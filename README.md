@@ -81,4 +81,4 @@ and Ethics, Corporate Governance and Business Law
 
 
 ## Linkedin 
-https://www.linkedin.com/in/charlotte-mannion-75483523/
+https://www.linkedin.com/in/charly-mannion-75483523/
