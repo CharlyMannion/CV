@@ -76,7 +76,6 @@ and Ethics, Corporate Governance and Business Law
 ## Interests
 - Photography: I like figuring out how old analogue cameras work, and experimenting with film and exposures to create interesting images
 - Film: I enjoy getting immersed in a story, particularly in a Cinema. The Aesthetica Short Film Festival was one of my highlights of 2019
-- Cooking: Learning about different cuisines and new cooking techniques is another way that I satisfy my thirst for knowledge. I also love bringing friends and family together and making people happy through food
 - Staying active: I like to go boulering, practice yoga and generally keep active - it keeps my mind clear and positive
 
 
