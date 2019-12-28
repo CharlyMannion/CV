@@ -2,7 +2,7 @@ charlottemannion100@gmail.com
 
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy. I'm excited for the opportunity to continue the learning that I started at Makers. I'm looking forward to starting my first position in a supportive team environment, following a period of absence from work due to ill health.
+I am a full stack developer and graduate of Makers Academy. I'm looking forward to starting my first position in a supportive team environment.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
