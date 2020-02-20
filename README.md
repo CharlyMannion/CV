@@ -9,7 +9,7 @@ I am a full stack developer and graduate of Makers Academy. I'm looking forward 
 |--|--|--|--|--|
 |[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports | 2 days | Ruby | Rspec, Rubocop |
 | [Battle](https://github.com/CharlyMannion/battle_solo) | A Sinatra web application for a two-player Battle game | 2 days | Ruby, HTML, CSS | Rspec, Capybara, Sinatra |
-| [Chitter](https://github.com/CharlyMannion/chitter_solo) | A small Twitter clone that will allow the users to post messages to a public stream. This project integrates a database using the `PG` gem and `SQL` queries.| 3 days | Ruby, HTML, CSS | Rspec, Rubocop, Capybara, Sinatra, PG, SQL, BCrypt| 
+| [Chitter](https://github.com/CharlyMannion/chitter_solo) | A small Twitter clone that will allow the users to post messages to a public stream. This project integrates a database using the `PG` gem and `SQL` queries.| 3 days | Ruby, HTML, CSS | Rspec, Rubocop, Capybara, Sinatra, PostgreSQL, PG, SQL, BCrypt| 
 | [Acebook](https://github.com/anderscodes/mother_acebook) | A clone of Facebook written in Java, Spring and React | 8 days | Java, Spring, React, Heroku | Nightwatch, Junit, Jest | 
 
 ## Skills
