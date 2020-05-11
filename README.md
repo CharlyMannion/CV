@@ -35,7 +35,7 @@ I had no prior coding experience when I started Makers Academy. But I embraced t
 As well as learning to code, Makers equipped me with a good mindset and attitude to code through behaviours such as OOP, TDD, Pair programming, XP Values.
 
 * Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
-* Web Frameworks: Sinatra, Spring, node.js/Express
+* Web Frameworks: Sinatra, Spring, node.js/Express, Ruby on Rails
 * Databases: PostgreSQL
 * Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
 * CI/CD: Travis CI, Heroku
