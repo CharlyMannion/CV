@@ -80,5 +80,5 @@ and Ethics, Corporate Governance and Business Law
 - Staying active: I like to go boulering, practice yoga and generally keep active - it keeps my mind clear and positive
 
 
-## Linkedin 
+## Contact Info 
 https://www.linkedin.com/in/charly-mannion-75483523/
